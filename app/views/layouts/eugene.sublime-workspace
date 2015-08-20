@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"some",
+				"some_random_variable"
+			],
+			[
+				"acceler",
+				"acceleration_protection"
+			],
+			[
+				"racec",
+				"racecar"
+			],
+			[
+				"attr",
+				"attr_accessor"
+			],
+			[
+				"dir",
+				"direct_reports"
+			],
+			[
+				"owner_lov",
+				"owner_love_meter"
+			],
+			[
+				"person",
+				"person_a"
+			],
+			[
+				"pers",
+				"person_a"
+			],
+			[
+				"user",
+				"user_input"
+			],
+			[
+				"welcom",
+				"welcome_text"
+			],
+			[
+				"get",
+				"get_user_info"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/hex/GA/final_project/eugene/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/app/controllers/proteins_controller.rb",
+			"settings":
+			{
+				"buffer_size": 201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/app/views/proteins/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/app/views/proteins/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/Gemfile",
+			"settings":
+			{
+				"buffer_size": 1497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application.html.erb",
+			"settings":
+			{
+				"buffer_size": 1375,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/class_notes.rb",
+			"settings":
+			{
+				"buffer_size": 30061,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hex/GA/final_project/eugene/db/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 240.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"self",
+				"Snippet: class << self .. end"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"bindi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"settings default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settings user",
+				"Preferences: Settings - User"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hex/GA/final_project/eugene",
+		"/home/hex/GA/final_project/eugene/app",
+		"/home/hex/GA/final_project/eugene/app/controllers",
+		"/home/hex/GA/final_project/eugene/app/views",
+		"/home/hex/GA/final_project/eugene/app/views/layouts",
+		"/home/hex/GA/final_project/eugene/app/views/proteins",
+		"/home/hex/GA/final_project/eugene/config",
+		"/home/hex/GA/final_project/eugene/db",
+		"/home/hex/GA/final_project",
+		"/home/hex/GA"
+	],
+	"file_history":
+	[
+		"/home/hex/GA/final_project/eugene/app/views/proteins/create.html.erb",
+		"/home/hex/GA/final_project/eugene/app/views/proteins/update.html.erb",
+		"/home/hex/GA/final_project/eugene/app/views/proteins/index.html.erb",
+		"/home/hex/GA/final_project/eugene/app/views/proteins/new.html.erb",
+		"/home/hex/GA/15/knope/Gemfile",
+		"/home/hex/GA/15/knope/app/views/campground/new.html.erb",
+		"/home/hex/GA/15/knope/app/views/campground/index.html.erb",
+		"/home/hex/GA/14/movie_maker/app/models/review.rb",
+		"/home/hex/GA/14/movie_maker/config/routes.rb",
+		"/home/hex/GA/final_project/final.rb",
+		"/home/hex/GA/14/movie_maker/app/models/movie.rb",
+		"/home/hex/GA/12/animal_views/app/controllers/animals_controller.rb",
+		"/home/hex/GA/14/movie_maker/db/schema.rb",
+		"/home/hex/GA/14/movie_maker/app/models/user.rb",
+		"/home/hex/GA/14/movie_maker/app/views/movies/index.html.erb",
+		"/home/hex/GA/14/movie_maker/app/views/movies/show.html.erb",
+		"/home/hex/GA/14/movie_maker/app/controllers/movies_controller.rb",
+		"/home/hex/GA/13/flickger/app/models/user.rb",
+		"/home/hex/GA/14/movie_maker/app/controllers/application_controller.rb",
+		"/home/hex/GA/14/movie_maker/db/seeds.rb",
+		"/home/hex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hex/GA/14/movie_maker/app/models/rating.rb",
+		"/home/hex/GA/14/movie_maker/db/migrate/20150805231814_create_ratings.rb",
+		"/home/hex/GA/13/flickger/app/controllers/photos_controller.rb",
+		"/home/hex/GA/13/flickger/app/controllers/users_controller2.rb",
+		"/home/hex/GA/14/movie_maker/db/migrate/20150805231757_create_movies.rb",
+		"/home/hex/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/hex/GA/13/flickger/.gitignore",
+		"/home/hex/GA/13/flickger/app/views/photos/index.html.erb",
+		"/home/hex/GA/13/flickger/db/development.sqlite3",
+		"/home/hex/GA/13/flickger/app/views/photos/edit.html.erb",
+		"/home/hex/GA/13/flickger/app/views/photos/new.html.erb",
+		"/home/hex/GA/final_project/julia_files/module euGENE.jl",
+		"/home/hex/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/hex/GA/class_notes.rb",
+		"/home/hex/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hex/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/hex/GA/10/models_recap/db/seeds.rb",
+		"/home/hex/GA/12/animal_views/app/views/animals/index.html.erb",
+		"/home/hex/GA/10/models_recap/app/views/companies/search.html.erb",
+		"/home/hex/GA/10/models_recap/app/views/companies/index.html.erb",
+		"/home/hex/GA/12/animal_viewer/db/migrate/20150729231934_create_animals.rb",
+		"/home/hex/GA/12/animal_viewer/config/routes.rb",
+		"/home/hex/GA/12/animal_viewer/app/views/animals/new.html.erb",
+		"/home/hex/GA/12/animal_viewer/app/controllers/animals_controller.rb",
+		"/home/hex/GA/12/animal_viewer/db/seeds.rb",
+		"/home/hex/GA/homework/08/hello_dolly/app/views/farewell/roger.html.erb",
+		"/home/hex/GA/homework/08/hello_dolly/app/views/welcome/dolly.html.erb",
+		"/media/truecrypt9/Writing/lana.txt",
+		"/home/hex/Desktop/backup2.sh",
+		"/home/hex/GA/10/models_recap/app/controllers/companies_controller.rb",
+		"/home/hex/GA/10/models_recap/config/routes.rb",
+		"/home/hex/GA/homework/08/hello_dolly/config/routes.rb",
+		"/usr/local/bin/backup.sh",
+		"/home/hex/GA/homework/08/touch.rb",
+		"/home/hex/Desktop/backup.sh",
+		"/home/hex/GA/09/movie_app/config/routes.rb",
+		"/home/hex/GA/homework/07/all_comments_all_the_time.rb",
+		"/home/hex/GA/weather_prog.rb",
+		"/home/hex/GA/09/movie_app/app/controllers/movies_controller.rb",
+		"/usr/local/bin/chromium-shortcut.sh",
+		"/home/hex/GA/05/apartment.rb",
+		"/home/hex/GA/05/notes.rb",
+		"/home/hex/GA/scratchpad.rb",
+		"/home/hex/GA/08/app_2/config/routes.rb",
+		"/home/hex/GA/08/routes/config/routes.rb",
+		"/home/hex/GA/08/routes/app/controllers/polite_controller.rb",
+		"/home/hex/GA/08/routes/app/views/layouts/application.html.erb",
+		"/home/hex/GA/08/app_2/app/controllers/user_controller.rb",
+		"/home/hex/GA/08/routes/app/views/dogs/index.html.erb",
+		"/home/hex/GA/08/routes/app/controllers/dogs_controller.rb",
+		"/home/hex/GA/07/secretz/main.rb",
+		"/home/hex/GA/homework/07/secretz/game.rb",
+		"/home/hex/GA/homework/07/secretz/game_jk.rb",
+		"/home/hex/GA/08/routes/config/application.rb",
+		"/home/hex/GA/08/routes/app/views/dogs",
+		"/home/hex/.bashrc",
+		"/home/hex/GA/my_first_app/config/application.rb",
+		"/home/hex/Documents/personal_documents/slade/anna_slade_memories.txt",
+		"/home/hex/Documents/personal_documents/slade/memories.txt",
+		"/home/hex/GA/06/person.rb",
+		"/home/hex/GA/05/classes1.rb",
+		"/home/hex/GA/05/class BetterPerson.rb",
+		"/home/hex/GA/06/commonality.rb",
+		"/home/hex/GA/06/code_along_secure_random.rb",
+		"/home/hex/GA/06/lab_car_class.rb",
+		"/home/hex/GA/06/codealong_modules.rb",
+		"/home/hex/Documents/programming/sublime_settings_info.rb",
+		"/home/hex/GA/06/coding_along_employee.rb",
+		"/home/hex/GA/06/employees.rb",
+		"/media/truecrypt9/Saved/cyphernomicon.txt",
+		"/media/hex/THINK_2/transfer/notes.rb",
+		"/home/hex/GA/02/hashes.rb",
+		"/home/hex/GA/02/arrays.rb",
+		"/home/hex/GA/ruby_commands.rb",
+		"/home/hex/GA/homework/03/arrays_with_alternatives.rb",
+		"/home/hex/GA/homework/03/arrays.rb",
+		"/home/hex/GA/04/arrays.rb",
+		"/home/hex/GA/homework/03/fizzbuzz.rb",
+		"/home/hex/debugging.rb",
+		"/home/hex/GA/02/bottlesofbeer.rb",
+		"/home/hex/fizzbuzz.rb",
+		"/home/hex/GA/02/arrays2.rb",
+		"/home/hex/GA/02/firstruby.rb",
+		"/home/hex/GA/02/booleans.rb",
+		"/home/hex/GA/homework/02/class_2_hw_karp.rb",
+		"/home/hex/GA/02/hello.rb",
+		"/home/hex/GA/02/methods.rb",
+		"/home/hex/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/hex/GA/02/codealong_1.rb",
+		"/home/hex/GA/homework/02/test.rb",
+		"/home/hex/.config/sublime-text-3/Packages/IJulia/Sublime-IJulia.sublime-settings",
+		"/home/hex/GA/firstruby.rb",
+		"/home/hex/GA/email_checker.rb",
+		"/usr/local/bin/subl_shortcut.sh",
+		"/usr/local/bin/firefox_shortcut.sh",
+		"/usr/local/bin/terminal_shortcut.sh",
+		"/home/hex/GA/01/01_exp.rb",
+		"/home/hex/Documents/Programming/test.rb",
+		"/home/hex/GA/exp.txt",
+		"/home/hex/GA/test.rb",
+		"/home/hex/Documents/Programming/experiments/test.rb",
+		"/home/hex/Documents/log.txt",
+		"/etc/grub.d/05_debian_theme",
+		"/lib/plymouth/themes/default.grub"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"popul",
+			"form",
+			">\n",
+			"rna_codons = {\"UUU\" => 'F', \"UUC\" => 'F', \"UUA\" => 'L', \"UUG\" => 'L',\n              \"UCU\" => 'S', \"UCC\" => 'S', \"UCA\" => 'S', \"UCG\" => 'S',\n              \"UAU\" => 'Y', \"UAC\" => 'Y', \"UAA\" => '-', \"UAG\" => '-',\n              \"UGU\" => 'C', \"UGC\" => 'C', \"UGA\" => '-', \"UGG\" => 'W',\n              \"CUU\" => 'L', \"CUC\" => 'L', \"CUA\" => 'L', \"CUG\" => 'L',\n              \"CCU\" => 'P', \"CCC\" => 'P', \"CCA\" => 'P', \"CCG\" => 'P',\n              \"CAU\" => 'H', \"CAC\" => 'H', \"CAA\" => 'Q', \"CAG\" => 'Q',\n              \"CGU\" => 'R', \"CGC\" => 'R', \"CGA\" => 'R', \"CGG\" => 'R',\n              \"AUU\" => 'I', \"AUC\" => 'I', \"AUA\" => 'I', \"AUG\" => 'M',\n              \"ACU\" => 'T', \"ACC\" => 'T', \"ACA\" => 'T', \"ACG\" => 'T',\n              \"AAU\" => 'N', \"AAC\" => 'N', \"AAA\" => 'K', \"AAG\" => 'K',\n              \"AGU\" => 'S', \"AGC\" => 'S', \"AGA\" => 'R', \"AGG\" => 'R',\n              \"GUU\" => 'V', \"GUC\" => 'V', \"GUA\" => 'V', \"GUG\" => 'V',\n              \"GCU\" => 'A', \"GCC\" => 'A', \"GCA\" => 'A', \"GCG\" => 'A',\n              \"GAU\" => 'D', \"GAC\" => 'D', \"GAA\" => 'E', \"GAG\" => 'E',\n              \"GGU\" => 'G', \"GGC\" => 'G', \"GGA\" => 'G', \"GGG\" => 'G'}\n\ndna_complement = {'A' 'BASDFADSF'}",
+			"company",
+			"model",
+			"push",
+			" \n",
+			"\"#{count += 1}\"",
+			"]\n",
+			"(@thread_count)",
+			"class",
+			"string",
+			"soaps",
+			"three",
+			"%w{one two three}",
+			"number",
+			" ",
+			"\"",
+			"0",
+			" \"",
+			"hello",
+			"\"",
+			"bottle_count",
+			"end",
+			"name",
+			"face",
+			"name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/hex/GA/final_project/eugene/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/hex/GA/final_project/eugene/app/controllers/proteins_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/hex/GA/final_project/eugene/app/views/proteins/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/hex/GA/final_project/eugene/app/views/proteins/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/hex/GA/final_project/eugene/Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1490,
+								1490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/hex/GA/class_notes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21495,
+								21495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/hex/GA/final_project/eugene/db/seeds.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/hex/GA/final_project/eugene/db/schema.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eugene.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clasno",
+				"GA/class_notes.rb"
+			],
+			[
+				"cnot",
+				"GA/class_notes.rb"
+			],
+			[
+				"clasn",
+				"GA/class_notes.rb"
+			],
+			[
+				"schem",
+				"eugene/db/schema.rb"
+			],
+			[
+				"classno",
+				"GA/class_notes.rb"
+			],
+			[
+				"route",
+				"GA/15/knope/config/routes.rb"
+			],
+			[
+				"new.h",
+				"GA/15/knope/app/views/campgrounds/new.html.erb"
+			],
+			[
+				"campgrocon",
+				"GA/15/knope/app/controllers/campgrounds_controller.rb"
+			],
+			[
+				"show",
+				"GA/14/movie_maker/app/views/movies/show.html.erb"
+			],
+			[
+				"revi",
+				"movie_maker/app/models/review.rb"
+			],
+			[
+				"show.",
+				"GA/14/movie_maker/app/views/movies/show.html.erb"
+			],
+			[
+				"movcont",
+				"GA/14/movie_maker/app/controllers/movies_controller.rb"
+			],
+			[
+				"control",
+				"GA/14/movie_maker/app/controllers/movies_controller.rb"
+			],
+			[
+				"schema.",
+				"movie_maker/db/schema.rb"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"new.",
+				"app/views/photos/new.html.erb"
+			],
+			[
+				"photosin",
+				"app/views/photos/index.html.erb"
+			],
+			[
+				"cno",
+				"GA/class_notes.rb"
+			],
+			[
+				"layouts",
+				"routes/app/views/layouts/application.html.erb"
+			],
+			[
+				"appl",
+				"routes/config/application.rb"
+			],
+			[
+				"rout",
+				"routes/config/routes.rb"
+			],
+			[
+				"user.r",
+				"07/my_first_app/app/models/user.rb"
+			],
+			[
+				"appcont",
+				"my_first_app/app/controllers/application_controller.rb"
+			],
+			[
+				"applic",
+				"my_first_app/config/application.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"index"
+			],
+			[
+				"Com",
+				"CompaniesController"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
