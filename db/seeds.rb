@@ -6,6 +6,6 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-a = Protein.create(name: "H2B")
-b = Protein.create(name: "SMIM1")
+# a = Protein.create(name: "H2B")
+# b = Protein.create(name: "SMIM1")
 

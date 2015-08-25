@@ -2,14 +2,14 @@
 
 one:
   name: MyString
-  gi_number: MyString
+  accession_number: MyString
   sequence: MyString
   weight: MyString
-  iso: MyString
+  iso_point: MyString
 
 two:
   name: MyString
-  gi_number: MyString
+  accession_number: MyString
   sequence: MyString
   weight: MyString
-  iso: MyString
+  iso_point: MyString

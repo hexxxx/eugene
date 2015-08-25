@@ -11,19 +11,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150813192306) do
+ActiveRecord::Schema.define(version: 20150825205841) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "proteins", force: :cascade do |t|
     t.string   "name"
-    t.string   "gi_number"
+    t.string   "accession_number"
     t.string   "sequence"
     t.string   "weight"
-    t.string   "iso"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.string   "iso_point"
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
   end
 
 end
