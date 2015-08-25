@@ -12,6 +12,16 @@ class ProteinsController < ApplicationController
   end
 
   def create
+    @protein =Protein.new(protein_params)
+
+
+
+
+
+
+
+
+
     # @proteinName = Protein.name.new
     # @proteinID = Protein.name.
 
@@ -118,4 +128,13 @@ class ProteinsController < ApplicationController
 
   def update
   end
+
+  private
+    def set_protein
+      @protein = Protein.find(params[:id])
+    end
+
+    def protein_params
+      params.require(:protein).permit(:name, :accession_number, :sequence, :weight, :iso_point)
+    end
 end
