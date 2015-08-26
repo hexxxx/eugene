@@ -7,7 +7,7 @@
 
 <div class="row">
   <div class="col-md-12">
-    <%= link_to "Add Protein", new_protein_path %>
+
     <!-- I believe this links to the new.html.erb view -->
     <hr />
 
@@ -23,32 +23,19 @@
         </tr>
       </thread>
       <tbody>
-      <% @proteins.each do |protein| %>
         <tr>
-          <td><%= protein.id %></td>
-          <td><%= link_to protein.name, protein %></td>
-          <td><%= protein.accession_number %></td>
-          <td><%= protein.weight %></td>
+          <td><%= @protein.id %></td>
+          <td><%= @protein.name %></td>
+          <td><%= @protein.accession_number %></td>
+          <td><%= @protein.weight %></td>
+          <td></td>
+          <td></td>
         </tr>
-      <% end %>
       <!-- this ends the ruby portion of the code -->
       </tbody>
     </table>
-    <table class="table table-bordered">
-      <thread>
-        <tr>
-          <th>ID</th>
-          <th>Sequence</th>
-        </tr>
-      </thread>
-      <tbody>
-      <% @proteins.each do |protein| %>
-        <tr>
-          <td><%= protein.id %></td>
-          <td><%= protein.sequence %></td>
-        </tr>
-      <% end %>
-      </tbody>
-    </table>
+        <p>
+        <%= @protein.sequence %>
+        </p>
   </div>
 </div>
