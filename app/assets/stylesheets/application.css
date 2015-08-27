@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+.the-table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}

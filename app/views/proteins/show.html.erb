@@ -28,14 +28,32 @@
           <td><%= @protein.name %></td>
           <td><%= @protein.accession_number %></td>
           <td><%= @protein.weight %></td>
-          <td></td>
-          <td></td>
+          <td><%= @protein.created_at %></td>
+          <td><%= @protein.updated_at %></td>
         </tr>
       <!-- this ends the ruby portion of the code -->
       </tbody>
     </table>
-        <p>
-        <%= @protein.sequence %>
-        </p>
+    <p align="right">
+    <%= link_to 'Edit', edit_protein_path(@protein.id) %>
+    <%= link_to 'Destroy', @protein, method: :delete, data: { confirm: "This will remove the protein data. Are you sure?" } %>
+    </p>
+  </div>
+</div>
+
+<div class="the-table">
+  <div class="col-md-12">
+    <thread>
+      <br>
+      <tr>
+        <h3>Sequence:</h3>
+      </tr>
+    </thread>
+    <tbody>
+      <tr>
+        <td><%= @protein.sequence %></td>
+      </tr>
+    </tbody>
+  </table>
   </div>
 </div>

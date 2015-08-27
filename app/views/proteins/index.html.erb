@@ -16,6 +16,7 @@
         <tr>
           <th>ID</th>
           <th>Name</th>
+          <th>Details</th>
           <th>Accession Number</th>
           <th>Weight</th>
           <th>Created</th>
@@ -27,13 +28,21 @@
         <tr>
           <td><%= protein.id %></td>
           <td><%= link_to protein.name, protein %></td>
+          <td><%= link_to 'More info', protein_path(protein.id) %></td>
           <td><%= protein.accession_number %></td>
           <td><%= protein.weight %></td>
+          <td><%= protein.created_at %></td>
+          <td><%= protein.updated_at %></td>
         </tr>
       <% end %>
       <!-- this ends the ruby portion of the code -->
       </tbody>
     </table>
+  </div>
+</div>
+
+<!-- <div class="row">
+  <div class="col-md-12">
     <table class="table table-bordered">
       <thread>
         <tr>
@@ -51,4 +60,4 @@
       </tbody>
     </table>
   </div>
-</div>
+</div> -->
