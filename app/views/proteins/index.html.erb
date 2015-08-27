@@ -3,12 +3,10 @@
     <h1>Protein Data</h1>
   </div>
 </div>
-<!-- I believe this is CSS from twitter's Bootstrap -->
 
 <div class="row">
   <div class="col-md-12">
     <%= link_to "Add Protein", new_protein_path %>
-    <!-- I believe this links to the new.html.erb view -->
     <hr />
 
     <table class="table table-bordered">
@@ -28,7 +26,7 @@
         <tr>
           <td><%= protein.id %></td>
           <td><%= link_to protein.name, protein %></td>
-          <td><%= link_to 'More info', protein_path(protein.id) %></td>
+          <td align="center"><%= link_to 'more info + edit', protein_path(protein.id) %></td>
           <td><%= protein.accession_number %></td>
           <td><%= protein.weight %></td>
           <td><%= protein.created_at %></td>
